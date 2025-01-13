@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedicalStoreUser</string>
+    <string name="cart_rs">%1$s Rs</string>
+</resources>
