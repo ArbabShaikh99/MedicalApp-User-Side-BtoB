@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th>Home Page</th>
-    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+    <th style="width: 100px;"></th> <!-- Empty cell for spacing -->
     <th>User Profile</th>
     <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
     <th>Buy Now</th>
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f7057426-837c-4b71-8391-6aa03c9a4c08" alt="Home Page" width="170">
+      <img src="https://github.com/user-attachments/assets/f7057426-837c-4b71-8391-6aa03c9a4c08" alt="Home Page" width="190">
     </td>
     <td></td>
     <td>
