@@ -1,7 +1,7 @@
 # Interface of Medical Application
 
 <div style="display: flex; align-items: center;">
-  <strong style="color: red;">Video See On</strong>
+  <strong style="color: red;">Video See On...</strong>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7282778559658512384/">
     <img src="https://github.com/user-attachments/assets/99fd1e1f-7476-49bc-991f-c9597c15665d" alt="LinkedIn Logo" width="30">
   </a>
