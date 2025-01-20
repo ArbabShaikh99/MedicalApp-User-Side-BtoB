@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <span style="font-size: 18px; font-weight: bold; color: red; margin-right: 10px;">Video See On</span>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7282778559658512384/">
-    <img src="https://github.com/user-attachments/assets/99fd1e1f-7476-49bc-991f-c9597c15665d" alt="LinkedIn Logo" width="33">
+    <img src="https://github.com/user-attachments/assets/37d17801-8f12-4618-be5b-4a6432ffb217" alt="LinkedIn Logo" width="30">
   </a>
 </div>
 
