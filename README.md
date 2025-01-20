@@ -1,9 +1,11 @@
 # Interface of Medical Application
 
-<span style="display: inline-block; vertical-align: middle;">Video See On</span>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7282778559658512384/" style="display: inline-block; vertical-align: middle;">
-  <img src="https://github.com/user-attachments/assets/37d17801-8f12-4618-be5b-4a6432ffb217" alt="LinkedIn Logo" width="60">
-</a>
+<div style="display: flex; align-items: center;">
+  <span style="font-size: 18px; margin-right: 10px;">Video See On</span>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7282778559658512384/">
+    <img src="https://github.com/user-attachments/assets/37d17801-8f12-4618-be5b-4a6432ffb217" alt="LinkedIn Logo" width="30">
+  </a>
+</div>
 
 
 <table>
