@@ -1,5 +1,5 @@
 # Interface of Application
-[![linkedin]![Image](https://github.com/user-attachments/assets/37d17801-8f12-4618-be5b-4a6432ffb217)](https://www.linkedin.com/in/mohd-aakib-0546ab272/)
+[Image](https://github.com/user-attachments/assets/37d17801-8f12-4618-be5b-4a6432ffb217)](https://www.linkedin.com/in/mohd-aakib-0546ab272/)
 <table>
   <tr>
     <th>Home Page</th>
