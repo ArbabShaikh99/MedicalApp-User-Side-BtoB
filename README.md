@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>Home Page</th>
-    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+    <th style="width: 70px;"></th> <!-- Empty cell for spacing -->
     <th>User Profile</th>
   </tr>
   <tr>
