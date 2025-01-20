@@ -1,4 +1,4 @@
-# Interface of Application
+# Interface of Medical Application
 
 <table>
   <tr>
@@ -9,6 +9,8 @@
     <th>Buy Now</th>
     <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
     <th>All Products</th>
+    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+    <th>Product Detail</th>
   </tr>
   <tr>
     <td>
@@ -26,5 +28,6 @@
     <td>
       <img src="https://github.com/user-attachments/assets/dcdc6382-726e-4ee7-83bf-cfa23c51adce" alt="All Products" width="150">
     </td>
-  </tr>
-</table>
+    <td></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ef13e00c-9657-41b6-8ce6-c689
