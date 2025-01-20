@@ -3,8 +3,12 @@
 <table>
   <tr>
     <th>Home Page</th>
-    <th style="width: 70px;"></th> <!-- Empty cell for spacing -->
+    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
     <th>User Profile</th>
+    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+    <th>Buy Now</th>
+    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+    <th>All Products</th>
   </tr>
   <tr>
     <td>
@@ -13,6 +17,14 @@
     <td></td>
     <td>
       <img src="https://github.com/user-attachments/assets/bc080425-675a-4c97-b2f1-9c338f008d2c" alt="User Profile" width="150">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4ce978e7-5033-487a-8a5d-40f1850d10f7" alt="Buy Now" width="150">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/dcdc6382-726e-4ee7-83bf-cfa23c51adce" alt="All Products" width="150">
     </td>
   </tr>
 </table>
