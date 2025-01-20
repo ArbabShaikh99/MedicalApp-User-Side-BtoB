@@ -6,7 +6,14 @@
     <img src="https://github.com/user-attachments/assets/99fd1e1f-7476-49bc-991f-c9597c15665d" alt="LinkedIn Logo" width="30">
   </a>
 </div>
+# Interface of Medical Application
 
+<div style="display: flex; align-items: center;">
+  ![Video See On](https://via.placeholder.com/150x30/FF0000/FFFFFF?text=Video+See+On)
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7282778559658512384/">
+    <img src="https://github.com/user-attachments/assets/37d17801-8f12-4618-be5b-4a6432ffb217" alt="LinkedIn Logo" width="30">
+  </a>
+</div>
 
 
 <table>
