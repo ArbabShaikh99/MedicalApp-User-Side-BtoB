@@ -1,4 +1,4 @@
-# Interface of Medical Application
+# Interface of Application
 
 <table>
   <tr>
@@ -30,4 +30,7 @@
     </td>
     <td></td>
     <td>
-      <img src="https://github.com/user-attachments/assets/ef13e00c-9657-41b6-8ce6-c689
+      <img src="https://github.com/user-attachments/assets/ef13e00c-9657-41b6-8ce6-c6890d8a9ac0" alt="Product Detail" width="150">
+    </td>
+  </tr>
+</table>
